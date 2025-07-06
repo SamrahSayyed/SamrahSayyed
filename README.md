@@ -25,9 +25,6 @@ I'm actively learning:
 - ⚙️ Hardware I have worked with -> Arduino, ESP8266, and STM32
 - 🧪 Tools used -> MATLAB, Arduino IDE, Multisim
 
-## 📈 Stats
-My GitHub stats ->[ https://github-readme-stats.vercel.app/api?username=SamrahSayyed&show_icons=true&theme=radical ]
-
 ## 🤝 Connect With Me On
 - My LinkedIn ->[ https://www.linkedin.com/in/samrah-sayyed-4b4438280/ ]
 - My Email ->[ ssamrah05@gmail.com ]
