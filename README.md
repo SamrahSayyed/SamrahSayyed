@@ -1,6 +1,6 @@
 ## Hi there, I'm Samrah!
 
-I'm a third-year dual major in **Electrical and Computer Engineering** from Pune, India.  
+I'm a third-year dual major in **Electrical and Computer Engineering.**   
 I'm all about cats, cars, and code!
 
 I'm curious about:
@@ -17,7 +17,7 @@ I'm actively learning:
 -  Python (with a focus on projects)
 -  Hardware-software integration
 
-💬 Open to **research, internships, and collaboration** opportunities!
+💬 I'm open to **research, internships, and collaboration** opportunities!
 
 ## 🛠️ Tech Stack
 
