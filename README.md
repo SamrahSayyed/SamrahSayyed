@@ -11,7 +11,7 @@ I'm curious about:
 
 Currently working on:
 -  Python projects
--  Web development projects like *Mental Health Journal* (Coming Soon!)
+-  Web development projects like *Social Media Platform!* (Coming Soon!)
 
 I'm actively learning:
 -  Python (with a focus on projects)
