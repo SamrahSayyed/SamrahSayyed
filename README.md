@@ -26,8 +26,8 @@ I'm actively learning:
 - 🧪 Tools used -> MATLAB, Arduino IDE, Multisim
 
 ## 🤝 Connect With Me On
-- My LinkedIn ->[ https://www.linkedin.com/in/samrah-sayyed-4b4438280/ ]
-- My Email ->[ ssamrah05@gmail.com ]
+- My LinkedIn ->[www.linkedin.com/in/samrahsayyed]
+- My Email ->[ samrah.sayyed05@gmail.com ]
 
 ## 🔧 Coming Soon
 
