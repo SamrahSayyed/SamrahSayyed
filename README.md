@@ -21,8 +21,9 @@ I'm actively learning:
 
 ## 🛠️ Tech Stack
 
- -Languages -> HTML, CSS & Python
- - Hardware I have worked with -> Arduino, ESP8266, and STM32
+ Hardware I have worked with ->
+ - Languages -> HTML, CSS & Python
+ - Arduino, ESP8266, and STM32
  - Tools used -> MATLAB, Arduino IDE, Multisim
 
 ## 🤝 Connect With Me On
