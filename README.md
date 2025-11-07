@@ -21,9 +21,9 @@ I'm actively learning:
 
 ## 🛠️ Tech Stack
 
-- 💻Languages -> HTML, CSS & Python
-- ⚙️ Hardware I have worked with -> Arduino, ESP8266, and STM32
-- 🧪 Tools used -> MATLAB, Arduino IDE, Multisim
+ 💻Languages -> HTML, CSS & Python
+ ⚙️ Hardware I have worked with -> Arduino, ESP8266, and STM32
+ 🧪 Tools used -> MATLAB, Arduino IDE, Multisim
 
 ## 🤝 Connect With Me On
 - My LinkedIn ->[www.linkedin.com/in/samrahsayyed]
