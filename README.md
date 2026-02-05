@@ -28,7 +28,7 @@ I'm actively learning:
 
 ## 🤝 Connect With Me On
 - My LinkedIn ->[www.linkedin.com/in/samrahsayyed]
-- My Email ->[ samrah.sayyed05@gmail.com ]
+- My Email ->[ ssamrah05@gmail.com ]
 
 ## 🔧 Coming Soon
 
