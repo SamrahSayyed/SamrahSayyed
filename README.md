@@ -18,7 +18,7 @@ I'm an Electrical and Computer Engineering undergraduate at **MIT World Peace Un
 **AI-Powered Study Analytics & Productivity Platform**
 Full-stack productivity platform with study planning, focus tracking, analytics dashboards, AI recommendations and RAG-based academic assistance.
 
-**Pharmaceutical Commercial Analytics & Sales Intelligence Platform**
+**Pharmaceutical Commercial Analytics & Sales Platform**
 End-to-end analytics solution using SQL, Python/Pandas and Power BI to analyze sales performance, physician segmentation, campaign ROI and commercial KPIs.
 
 **LiDAR & RADAR Sensor Fusion with STM32**
@@ -29,7 +29,7 @@ STM32-based automotive communication framework for real-time sensor-to-ECU data 
 
 ### 🔬 Research
 
-Co-author of:
+Co-author & POC of:
 
 **"Design and Implementation of Multi-Sensor Integration using STM32 over CAN-Based Communication Framework"**
 
